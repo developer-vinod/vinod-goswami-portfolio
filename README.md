@@ -1,6 +1,6 @@
 # Vinod Goswami - Full Stack Software Engineer Portfolio
 
-🚀 **Live Website**: [vinod-goswami-portfolio.github.io](https://yourusername.github.io/vinod-goswami-portfolio)
+🚀 **Live Website**: [vinod-goswami-portfolio.github.io]([https://yourusername.github.io/vinod-goswami-portfolio](https://vinod1000.github.io/vinod-goswami-portfolio))
 
 ## About
 Professional portfolio showcasing full-stack development expertise with 2+ years of experience in building scalable web applications, e-commerce platforms, and enterprise solutions.
